@@ -28,7 +28,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AppLovinMediationFacebookAdapter",
-            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/facebook-adapter/AppLovinMediationFacebookAdapter-13.1.0.1.zip",
+            url: "https://artifacts.applovin.com/ios/com/applovin/mediation/facebook-adapter/AppLovinMediationFacebookAdapter-6.21.1.0.zip",
             checksum: "69069f3c153a9387a355a2e4e9ed322bcc4fcec7b0f5bc80fa9880e9c69c1ccb"
         )
     ]
