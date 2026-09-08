@@ -4,7 +4,7 @@ The AppLovin MAX Meta Audience Network mediation adapter for iOS, distributed vi
 
 ## Requirements
 
-- iOS 13.0+
+- iOS 15.0+
 - Xcode 15.0+
 - AppLovin MAX iOS SDK 13.0.0+
 
